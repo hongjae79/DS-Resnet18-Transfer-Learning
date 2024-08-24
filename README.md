@@ -1,4 +1,4 @@
-# Data-Science---Fellowship.ai
+# Resnet18-Transfer-Learning
 
 Challenge problem of Fellowship.ai
 
